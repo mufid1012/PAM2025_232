@@ -5,8 +5,8 @@ object Constants {
     // For Android Emulator: use 10.0.2.2 to access localhost
     // For Physical Device: use your computer's IP address
 
-    const val BASE_URL = "http://10.0.2.2/backend/api/"
-    
+    const val BASE_URL = "https://mgrtesting.my.id/api/"
+
     // SharedPreferences keys
     const val PREFS_NAME = "runrace_prefs"
     const val KEY_TOKEN = "jwt_token"

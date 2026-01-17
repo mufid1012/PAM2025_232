@@ -12,9 +12,9 @@ date_default_timezone_set('Asia/Jakarta');
 
 // Database Configuration
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'runrace_db');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'mgrtesti_runrace_d');
+define('DB_USER', 'mgrtesti_runrace_user');
+define('DB_PASS', 'Gh12dominus_');
 
 // JWT Configuration
 define('JWT_SECRET', 'runrace_jwt_secret_key_2026_very_secure');
